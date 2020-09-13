@@ -10,7 +10,7 @@ $("#Show").click(function(){
 
 
 
-document.getElementById("h1").style.color = "#2c226b";
+document.getElementById('h1').style.color = "#2c226b";
 document.getElementById('h1').style.fontSize="1.2em";
 document.getElementById('h1').style.fontWeight="700";
 //styler her min overskrift "h1" med javascript.

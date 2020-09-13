@@ -99,15 +99,15 @@ h4 {
   margin-bottom: 20px;
   margin-top: 10px;
   color: #fff;
-  text-align: center;
-  line-height: 1.6;
+  text-align: left;
+
 }
 
 #h4 {
   margin-bottom: 20px;
   margin-top: 10px;
   color: #fff;
-  text-align: center;
+  text-align: left;
 }
 
 #section1 {
@@ -204,6 +204,7 @@ h4 {
     opacity: 0.8;
     /*knappens opacity sættes til 0.8*/
     transition-duration: 04ms;
+    cursor: pointer;
   }
 
   .button:hover {
